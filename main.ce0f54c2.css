@@ -1,0 +1,2 @@
+.people{display:grid;grid-template-columns:repeat(4,200px);grid-template-rows:auto;column-gap:10px;row-gap:50px;justify-items:center}.people__person{position:relative;width:200px;height:231px}.people__person__photo{width:200px;height:231px;display:block;border-radius:100%;object-fit:fill}.people__person__rank{display:block;text-align:center;margin-top:7px;margin-bottom:7px;font-size:16px;line-height:18.4px;background-color:#fff;border-radius:32px;width:32px;height:32px;position:absolute;bottom:40%;right:5%}
+/*# sourceMappingURL=main.ce0f54c2.css.map */
